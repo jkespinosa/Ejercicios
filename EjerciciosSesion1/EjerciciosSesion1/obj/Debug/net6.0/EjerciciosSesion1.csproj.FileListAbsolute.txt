@@ -1,0 +1,15 @@
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\bin\Debug\net6.0\EjerciciosSesion1.exe
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\bin\Debug\net6.0\EjerciciosSesion1.deps.json
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\bin\Debug\net6.0\EjerciciosSesion1.runtimeconfig.json
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\bin\Debug\net6.0\EjerciciosSesion1.dll
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\bin\Debug\net6.0\EjerciciosSesion1.pdb
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.csproj.AssemblyReference.cache
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.AssemblyInfoInputs.cache
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.AssemblyInfo.cs
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.csproj.CoreCompileInputs.cache
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.dll
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\refint\EjerciciosSesion1.dll
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.pdb
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\EjerciciosSesion1.genruntimeconfig.cache
+C:\Users\HP2022\source\repos\EjerciciosSesion1\EjerciciosSesion1\obj\Debug\net6.0\ref\EjerciciosSesion1.dll

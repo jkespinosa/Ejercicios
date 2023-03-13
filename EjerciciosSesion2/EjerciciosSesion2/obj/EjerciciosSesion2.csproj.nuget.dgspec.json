@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj": {}
+    "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj": {
+    "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj",
+        "projectUniqueName": "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj",
         "projectName": "EjerciciosSesion2",
-        "projectPath": "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj",
+        "projectPath": "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2.csproj",
         "packagesPath": "C:\\Users\\HP2022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\EjerciciosSesion2\\obj\\",
+        "outputPath": "C:\\Users\\HP2022\\Documents\\GitHub\\Ejercicios\\EjerciciosSesion2\\EjerciciosSesion2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

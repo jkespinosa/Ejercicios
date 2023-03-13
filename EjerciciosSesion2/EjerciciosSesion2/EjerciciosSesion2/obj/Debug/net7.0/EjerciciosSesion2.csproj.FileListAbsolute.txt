@@ -1,0 +1,15 @@
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\bin\Debug\net7.0\EjerciciosSesion2.exe
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\bin\Debug\net7.0\EjerciciosSesion2.deps.json
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\bin\Debug\net7.0\EjerciciosSesion2.runtimeconfig.json
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\bin\Debug\net7.0\EjerciciosSesion2.dll
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\bin\Debug\net7.0\EjerciciosSesion2.pdb
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.csproj.AssemblyReference.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.AssemblyInfoInputs.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.AssemblyInfo.cs
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.csproj.CoreCompileInputs.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.dll
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\refint\EjerciciosSesion2.dll
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.pdb
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\EjerciciosSesion2.genruntimeconfig.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion2\EjerciciosSesion2\EjerciciosSesion2\obj\Debug\net7.0\ref\EjerciciosSesion2.dll

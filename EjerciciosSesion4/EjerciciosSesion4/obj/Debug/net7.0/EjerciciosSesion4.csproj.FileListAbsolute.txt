@@ -1,0 +1,15 @@
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\bin\Debug\net7.0\EjerciciosSesion4.exe
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\bin\Debug\net7.0\EjerciciosSesion4.deps.json
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\bin\Debug\net7.0\EjerciciosSesion4.runtimeconfig.json
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\bin\Debug\net7.0\EjerciciosSesion4.dll
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\bin\Debug\net7.0\EjerciciosSesion4.pdb
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.csproj.AssemblyReference.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.AssemblyInfoInputs.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.AssemblyInfo.cs
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.csproj.CoreCompileInputs.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.dll
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\refint\EjerciciosSesion4.dll
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.pdb
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\EjerciciosSesion4.genruntimeconfig.cache
+C:\Users\HP2022\Documents\GitHub\Ejercicios\EjerciciosSesion4\EjerciciosSesion4\obj\Debug\net7.0\ref\EjerciciosSesion4.dll
